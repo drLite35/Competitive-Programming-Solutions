@@ -10,15 +10,15 @@ This repository contains my solutions to various programming problems from three
 
 ## LeetCode
 
-The LeetCode directory contains my solutions to problems available on the LeetCode platform. Each problem has its own directory named after the problem's unique identifier. Inside each directory, you will find the solution file along with a README file explaining the problem and my approach to solving it.
+The LeetCode directory contains my solutions to problems available on the LeetCode platform. Each problem has its own directory named after the problem's unique identifier.
 
 ## Codeforces
 
-The Codeforces directory contains my solutions to problems from the Codeforces platform. Similar to the LeetCode section, each problem has its own directory named after the problem's unique identifier. Inside each directory, you will find the solution file and a README file with a problem description and my approach to solving it.
+The Codeforces directory contains my solutions to problems from the Codeforces platform. Similar to the LeetCode section, each problem has its own directory named after the problem's unique identifier.
 
 ## GeeksforGeeks
 
-The GeeksforGeeks directory contains my solutions to problems from the GeeksforGeeks platform. Similarly, each problem has its own directory named after the problem's unique identifier. Inside each directory, you will find the solution file and a README file with a problem description and my approach to solving it.
+The GeeksforGeeks directory contains my solutions to problems from the GeeksforGeeks platform. Similarly, each problem has its own directory named after the problem's unique identifier. 
 
 ## Contributing
 
