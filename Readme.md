@@ -4,21 +4,9 @@ This repository contains my solutions to various programming problems from three
 
 ## Table of Contents
 
-- [LeetCode](#leetcode)
-- [Codeforces](#codeforces)
-- [GeeksforGeeks](#geeksforgeeks)
-
-## LeetCode
-
-The LeetCode directory contains my solutions to problems available on the LeetCode platform. Each problem has its own directory named after the problem's unique identifier.
-
-## Codeforces
-
-The Codeforces directory contains my solutions to problems from the Codeforces platform. Similar to the LeetCode section, each problem has its own directory named after the problem's unique identifier.
-
-## GeeksforGeeks
-
-The GeeksforGeeks directory contains my solutions to problems from the GeeksforGeeks platform. Similarly, each problem has its own directory named after the problem's unique identifier. 
+- [LeetCode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 ## Contributing
 
@@ -27,10 +15,6 @@ If you find any bugs in the solutions or have alternative approaches to the prob
 ## Disclaimer
 
 The solutions provided in this repository are for educational purposes only. It is recommended that you try to solve the problems yourself before referring to the solutions. Using the solutions as a means to cheat during competitions or evaluations is strongly discouraged.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for personal or educational purposes.
 
 ## Acknowledgments
 
